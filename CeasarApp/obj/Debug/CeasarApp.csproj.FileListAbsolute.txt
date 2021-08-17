@@ -1,0 +1,14 @@
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\CeasarApp.exe.config
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\CeasarApp.exe
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\CeasarApp.pdb
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.csproj.AssemblyReference.cache
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.Form1.resources
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.Properties.Resources.resources
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.csproj.GenerateResource.cache
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.csproj.CoreCompileInputs.cache
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.exe
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.pdb
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\ATBMTT_B1_Ceasar.exe
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\ATBMTT_B1_Ceasar.pdb
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\bin\Debug\ATBMTT_B1_Ceasar.exe.config
+D:\Source Code\ATBMTT_B1_Ceasar\CeasarApp\obj\Debug\CeasarApp.csproj.CopyComplete

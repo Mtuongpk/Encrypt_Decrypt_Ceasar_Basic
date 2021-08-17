@@ -1,0 +1,10 @@
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\bin\Debug\ATBMTT_B1_Ceasar.exe.config
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\bin\Debug\ATBMTT_B1_Ceasar.exe
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\bin\Debug\ATBMTT_B1_Ceasar.pdb
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.csproj.AssemblyReference.cache
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.Properties.Resources.resources
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.csproj.GenerateResource.cache
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.csproj.CoreCompileInputs.cache
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.exe
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.pdb
+D:\Source Code\ATBMTT_B1_Ceasar\ATBMTT_B1_Ceasar\obj\Debug\ATBMTT_B1_Ceasar.Form1.resources
